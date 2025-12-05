@@ -1,0 +1,5 @@
+{
+  "name": "OpenAsk",
+  "description": "A modern, AI-powered Q&A application capable of processing text and images for insightful answers using Gemini.",
+  "requestFramePermissions": []
+}
